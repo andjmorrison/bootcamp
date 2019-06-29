@@ -1,2 +1,2 @@
 #blah blah blah
-print("yay!"")
+print("yay!")
